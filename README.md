@@ -43,7 +43,7 @@ The practical exercise involved the following activities:
 
 
 nw{cybersecurity_flag_captured_2608}
-nw{networkwalks_flag1_jx_270021_1}
+nw{networkwalks_flag1_jtr_270021_1}
 
 
 
